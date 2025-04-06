@@ -1,0 +1,7 @@
+#Files to hide
+.env
+pyvenv.cfg
+
+#folders to hide
+__pycache__/
+scripts/
